@@ -51,6 +51,12 @@ button:nth-child(1) {
     margin-left: -200px;
     background: #e94d58;
 }
+button:nth-child(1):hover {
+    background: #fff;
+    color: #e94d58;
+    box-shadow: 0 2px 4px #e9ad58;
+}
+
 button:nth-child(2) {
     margin-right: -200px;
     background: #ffff;
